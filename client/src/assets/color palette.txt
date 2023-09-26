@@ -1,0 +1,12 @@
+Palette
+
+#FFC09F
+#dfa383
+#976245
+#FF6B6B
+#8f001a
+#F5ECEC
+#ebe2e2
+#c2baba
+#4D4D4D
+#797979
