@@ -3,4 +3,6 @@
   color: var(--accent-200);
   border: 1px solid var(--accent-100);
   background: var(--primary-100);
+  border-radius: 14px;
 }
+

@@ -1,4 +1,5 @@
 import React from "react";
+import "./Navbar.css";
 export default function navbar() {
   return (
     <div>
@@ -9,8 +10,8 @@ export default function navbar() {
             <img
               src="src/assets/logo.png"
               alt="Logo"
-              width="54"
-              height="50"
+              width="70"
+              height="70"
               className="d-inline-block align-text-top"
             />
           </a>
