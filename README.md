@@ -64,7 +64,8 @@ To contribute to this project, follow these steps:
 4. Install back-end dependencies: `cd ../server && npm install`
 5. Start the front-end development server: `npm run dev` (inside `client` folder)
 6. Start the back-end development server: `npm run dev` (inside `server` folder)
-7. Open your browser and visit: `http://localhost:3000`
+7. Frontend, open your browser and visit: `http://localhost:ViteJSPort`
+8. Backend running at: `http://localhost:3000`
 
 Feel free to explore the codebase, make improvements, and submit pull requests to contribute to our collaborative study space management platform!
 
