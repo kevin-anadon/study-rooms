@@ -1,6 +1,6 @@
 # Study Rooms - Collaborative Study Space Management Platform
 
-![Study Rooms Logo](https://cdn-icons-png.flaticon.com/512/2466/2466734.png)
+![Study Rooms Logo](https://github.com/kevin-anadon/study-rooms/blob/main/client/src/assets/logo.png)
 
 ## About
 
