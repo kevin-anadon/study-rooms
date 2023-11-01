@@ -1,0 +1,13 @@
+:root {
+  --font-family: "Martian Mono", monospace;
+  --primary-100: #ffc09f;
+  --primary-200: #dfa383;
+  --primary-300: #976245;
+  --accent-100: #ff6b6b;
+  --accent-200: #8f001a;
+  --text-100: #4d4d4d;
+  --text-200: #797979;
+  --bg-100: #f5ecec;
+  --bg-200: #ebe2e2;
+  --bg-300: #c2baba;
+}

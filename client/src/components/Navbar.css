@@ -1,0 +1,4 @@
+@import "../constants.css";
+.navbar{
+    background-color: var(--bg-300);
+}
