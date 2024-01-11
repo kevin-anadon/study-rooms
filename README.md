@@ -8,8 +8,8 @@ Welcome to Study Rooms, a collaborative study space management platform inspired
 
 ## Authors
 
-- Kevin Anadon
-- Mayza Ferreira
+- Kevin Anadon - Backend Developer
+- Mayza Ferreira - Frontend Developer
 
 ## Front-end Stack 👩🏻‍💻
 
