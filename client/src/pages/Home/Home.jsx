@@ -10,9 +10,7 @@ export default function Home() {
   return (
     <div>
       <Navbar />
-
       <h1 className="tittle">Study rooms</h1>
-
       <CreateButton />
       <JoinButton />
     </div>
