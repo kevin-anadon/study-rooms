@@ -1,7 +1,33 @@
 @import "../../constants.css";
 .tittle {
-  margin-top: 250px;
   font-size: 80px;
+  color: var(--text-300);
+}
+.background {
+  width: 100%;
+  height: 100dvh;
+}
+video,
+.content,
+.overlay {
+  width: 100%;
+  height: 100%;
+}
+video {
+  object-fit: cover;
+}
+
+.content {
+  position: absolute;
+
+  top: 0;
+  align-items: center;
   color: var(--text-100);
 }
 
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
